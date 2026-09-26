@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'Hello, World from Render!'
+    return 'sexy shyam!'
 
 if __name__ == '__main__':
     # Render provides the port dynamically via an environment variable
